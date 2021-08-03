@@ -1,0 +1,21 @@
+.app{
+  display: block;
+  text-align: center;
+}
+.html, body {
+   background-color: #35495e ;
+   color: #eee;
+}
+.count {
+   font-size: 3rem;
+   font-weight: bold;
+}
+.button button {
+   padding: 1rem;
+   font-size: 1rem;
+   margin: 1rem 1rem;
+}
+
+.button :hover {
+   cursor: pointer;
+}
